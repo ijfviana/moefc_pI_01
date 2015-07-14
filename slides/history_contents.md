@@ -52,7 +52,7 @@ Monty Python's Flying Circus: Divertido programar
 
 La última versión es __Python 3.3__ liberado en Septiembre 2012
 
-[Más infromación sobre versiones](http://en.wikipedia.org/wiki/History_of_Python)
+[Más información sobre versiones](http://en.wikipedia.org/wiki/History_of_Python)
 
 
 
