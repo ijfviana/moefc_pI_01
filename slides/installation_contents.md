@@ -13,9 +13,13 @@
 
 ## En Mac
 
-<a class="fancybox" href="img/Monkey-thoughtful.jpg" data-fancybox-group="gallery" title="En Mac">
-<img height="400px" src="img/Monkey-thoughtful.redimensionado.jpg" alt="En Mac">
-</a>
+Descarga: 
+
+```bash
+https://www.python.org/downloads/release/python-2710/
+``` 
+
+versión: Mac OS X 64-bit/32-bit installer
 
 note:
     Put your speaker notes here.

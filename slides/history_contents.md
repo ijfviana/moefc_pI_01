@@ -67,22 +67,22 @@ La última versión es __Python 3.3__ liberado en Septiembre 2012
 ## Características y paradigmas
 <ul>
 <li class="fragment fade-in">
-Es un lenguaje de programación multiparadigma (programación orientada a objetos, programación imperativa y programación funcional, etc.)
+Es un lenguaje de programación **multiparadigma** (programación orientada a objetos, programación imperativa y programación funcional, etc.)
 </li>
 <li class="fragment fade-in">
-Es un lenguaje de programación interpretado
+Es un lenguaje de programación **interpretado**
 </li>
 <li class="fragment fade-in">
-Usa tipado dinámico y conteo de referencias para la administración de memoria
+Usa **tipado dinámico** y conteo de referencias para la administración de memoria
 </li>
 <li class="fragment fade-in">
-Resolución dinámica de nombres
+**Resolución dinámica** de nombres
 </li>
 <li class="fragment fade-in">
-Es facilmente extensible
+Es facilmente **extensible**
 </li>
 <li class="fragment fade-in">
-Potente, fácil y divertido
+**Potente, fácil y divertido**
 </li>
 </ul>
 
