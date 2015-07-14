@@ -1,0 +1,109 @@
+[
+    {
+        "filename": "index.md",
+        "attr": {
+            "data-background": "img/covert.png",
+            "class": "home",
+            "data-state": "homepage"
+        }
+    },
+    {
+        "filename": "outline.md",
+        "attr": {}
+    },
+    {
+        "filename": "history.md",
+        "attr": {
+            "data-state": "big-title",
+            "data-transition":"zoom",
+            "data-separator": "^\n\n\n",
+            "data-vertical": "^\n\n"
+        }
+    },
+    {
+        "filename": "history_contents.md",
+        "attr": {
+            "data-separator": "^\n\n\n",
+            "data-vertical": "^\n\n"
+        }
+    },
+    {
+        "filename": "installation.md",
+        "attr": {
+            "data-state": "big-title",
+            "data-transition":"zoom"
+        }
+    },
+    {
+        "filename": "installation_contents.md",
+        "attr": {
+        "data-separator": "^\n\n\n",
+            "data-vertical": "^\n\n"
+        }
+    },
+    {
+        "filename": "executing.md",
+        "attr": {
+            "data-state": "big-title",
+            "data-transition":"zoom"
+        }
+    },
+    {
+        "filename": "executing_contents.md",
+        "attr": {
+            "data-separator": "^\n\n\n",
+            "data-vertical": "^\n\n"
+        }
+    },
+    {
+        "filename": "executing_modes.md",
+        "attr": {
+            "data-state": "big-title",
+            "data-transition":"zoom"
+        }
+    },
+    {
+        "filename": "executing_modes_contents.md",
+        "attr": {
+      "data-separator": "^\n\n\n",
+            "data-vertical": "^\n\n"
+        }
+    },
+
+    {
+        "filename": "laboratory.md",
+        "attr": {
+            "data-state": "big-title",
+            "data-transition":"zoom"
+        }
+    },
+    {
+        "filename": "laboratory_contents.md",
+        "attr": {
+      "data-separator": "^\n\n\n",
+            "data-vertical": "^\n\n"
+        }
+    },
+
+    {
+        "filename": "end.md",
+        "attr": {
+            "data-state":"thanks", 
+            "class":"alternatelight",
+           "data-separator": "^\n\n\n",
+            "data-vertical": "^\n\n"
+ 
+        }
+    },
+
+    {
+        "filename": "credits.md",
+        "attr": {
+            "data-state":"credits", 
+            "class":"smallercredits",
+           "data-separator": "^\n\n\n",
+            "data-vertical": "^\n\n"
+ 
+        }
+    }
+]

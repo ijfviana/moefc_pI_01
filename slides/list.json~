@@ -1,0 +1,77 @@
+[
+    {
+        "filename": "index.md",
+        "attr": {
+            "data-background": "img/all/covert.png",
+            "class": "home",
+            "data-state": "homepage"
+        }
+    },
+    {
+        "filename": "outline.md",
+        "attr": {}
+    },
+    {
+        "filename": "about-us.md",
+        "attr": {
+            "data-state": "big-title",
+            "data-separator": "^\n\n\n",
+            "data-vertical": "^\n\n"
+        }
+    },
+    {
+        "filename": "us.md",
+        "attr": {
+            "data-separator": "^\n\n\n",
+            "data-vertical": "^\n\n"
+        }
+    },
+    {
+        "filename": "why.md",
+        "attr": {
+        
+        }
+    },
+    {
+        "filename": "python-evolution.md",
+        "attr": {
+            "data-background": "#ff0000"
+        }
+    },
+    {
+        "filename": "timetable.md",
+        "attr": {
+            "data-state": "big-title"
+        }
+    },
+    {
+        "filename": "resources.md",
+        "attr": {
+            "data-state": "big-title"
+        }
+    },
+    {
+        "filename": "target.md",
+        "attr": {
+            "data-state": "big-title"
+        }
+    },
+    {
+        "filename": "contents.md",
+        "attr": {
+            "data-state": "big-title"
+        }
+    },
+    {
+        "filename": "evaluation.md",
+        "attr": {
+            "data-state": "big-title"
+        }
+    },
+    {
+        "filename": "bibliography.md",
+        "attr": {
+            "data-state": "big-title"
+        }
+    }
+]
