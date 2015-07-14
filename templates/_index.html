@@ -4,7 +4,7 @@
     <head>
         <meta charset="utf-8">
 
-        <title>Python</title>
+        <title>Programación I</title>
 
         <meta name="apple-mobile-web-app-capable" content="yes" />
         <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
@@ -12,9 +12,9 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
         <link rel="stylesheet" href="bower_components/reveal.js/css/reveal.min.css">
-    
+
         <link rel="stylesheet" href="bower_components/reveal.js/css/theme/default.css" id="theme">
-    
+
 
         <!-- For syntax highlighting -->
         <link rel="stylesheet" href="bower_components/reveal.js/lib/css/zenburn.css" id="highlight-theme">
@@ -40,7 +40,7 @@
 
 	<link rel="stylesheet" href="bower_components/fancybox/source/jquery.fancybox.css" type="text/css" media="screen" />
         <script type="text/javascript" src="bower_components/fancybox/source/jquery.fancybox.pack.js"></script>
-	<!-- end fancybox -->	
+	<!-- end fancybox -->
 
     <!-- begin qtip -->
 		<link type="text/css" rel="stylesheet" href="bower_components/qtip2/jquery.qtip.min.css" />
@@ -292,10 +292,10 @@
 		<script>
 
 			/* Cargamos las notas cada vez que se carga un slide */
-					
+
 			Reveal.addEventListener( 'slidechanged', function( event ) {
 				// event.previousSlide, event.currentSlide, event.indexh, event.indexv
-				
+
 				$('.tooltip[id^="tooltip_"]').each(function() {
 					$(this).qtip({
 						content : $('#data_' + $(this).attr('id')),
@@ -312,11 +312,14 @@
 						}
 					});
 				});
-				
+
 			} );
 		</script>
 		<!-- end Qtip -->
 
+    <a class="fork-reveal" style="display: inline;" href="https://github.com/ijfviana/moefc_pI_01.git"><img style="position: absolute; top: 0; right: 0; border: 0;" src="theme/img/github.png" alt="Fork on GitHub"></a>
+
+    <p style="position: absolute; bottom: 1pt; left: 5pt; border: 0; font-family:rbno2_light_alternative_Rg; font-weight:bold; color:#a8003b; letter-spacing: 0.02em; font-size: 1.8em"> Programación I: Preparación del entorno de laboratorio </p>
 
     </body>
 

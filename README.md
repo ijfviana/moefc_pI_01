@@ -26,10 +26,10 @@ sudo apt-get install npm
 sudo npm install -g grunt-cli
 ```
 
-* Instale https://www.npmjs.com/package/grunt
+* Instale [bower](http://bower.io/)
 
 ```
-sudo npm install -g [bower](http://bower.io/)
+sudo npm install -g bower
 ```
 
 * Clone el repositorio

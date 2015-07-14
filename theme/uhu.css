@@ -1368,7 +1368,7 @@ body:before {
 body:after {
   bottom: 0;
   content: '';
-  background-image: url('img/line_burdeos.png'), url('img/logo_uhu_es.png'),  url('img/titulo_presentacion.png');
+  background-image: url('img/line_burdeos.png'), url('img/logo_uhu_es.png');
   background-repeat: repeat-x, no-repeat, no-repeat;
   background-position:left top,99% 50%, 1% 50%;
   height: 45px;
@@ -1853,5 +1853,3 @@ hr {
 .my_tooltip {
 	background-image: url(img/exclamation32x32.png');
 }
-
-

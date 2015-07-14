@@ -1,5 +1,5 @@
-# Introducción a la Programación en Python
-### PREPARACIÓN DEL ENTORNO DE LABORATORIO
+# Programación I
+### Preparación del entorno de laboratorio
 
 
 <small>Creado por </small>
@@ -8,8 +8,8 @@
 
 <small>[Gonzalo Aranda Corral](http://www.uhu.es/gonzalo.aranda) / [@garanda](http://twitter.com/garanda)</small>
 
-<small>Huelva, marzo 2014</small>
-                    
+<small>Huelva, agosto 2015</small>
+
 <aside class="notes">
 	Oh hey, these are some notes. They'll be hidden in your presentation, but you can see them if you open the speaker notes window (hit 's' on your keyboard).
 </aside>

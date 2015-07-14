@@ -4,5 +4,7 @@ dist
 *.log
 .sass-cache
 *.md~
+*.~
 .editorconfig
 .yo-rc.json
+index.html
